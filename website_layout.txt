@@ -1,3 +1,0 @@
-1.header
-2.main section
-3.footer
