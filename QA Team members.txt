@@ -1,2 +1,2 @@
-1.Oleg
-2.Artem
+1.Oleg Petrov
+2.Artem Ivanov
